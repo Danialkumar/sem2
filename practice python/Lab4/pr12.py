@@ -1,3 +1,4 @@
+#12. Write a Python function to find the maximum of three numbers.
 def max(a,b,c):
   if a>b & b>c:print(f"first number {a} is greatest")
   elif b>a & b>c:print(f"second number {b} is greatest")
