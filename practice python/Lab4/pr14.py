@@ -1,3 +1,4 @@
+#14. Write a program to check whether a number is prime, Armstrong using functions.
 num=int(input("enter the number to check prime or not: "))
 def prime(num):
   if num>2:
